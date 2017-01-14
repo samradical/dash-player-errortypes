@@ -1,0 +1,35 @@
+{
+  "name": "@samelie/dash-player-errortypes",
+  "description": "",
+  "homepage": "https://github.com/samradical/dash-player-errortypes",
+  "author": "Sam Elie <samradelie@gmail.com>",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samradical/dash-player-errortypes.git",
+    "web": "https://github.com/samradical/dash-player-errortypes/"
+  },
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "youtube",
+    "dash",
+    "sidx",
+    "mpd"
+  ],
+  "bugs": {
+    "url": "https://github.com/samradical/dash-player-errortypes/issues"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/samradical/dash-player-errortypes/raw/master/LICENSE"
+    }
+  ]
+}
